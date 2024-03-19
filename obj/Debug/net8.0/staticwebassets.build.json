@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3cK1G9a+tUAhs1iiZCs/0TJLtVTRupRt97BmsnpqH2k=",
+  "Source": "CloudStorageAPI",
+  "BasePath": "_content/CloudStorageAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
