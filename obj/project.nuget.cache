@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "fx1RtMeus12ram1IDZezHnNuTMoixD0ce1d1PvS51lVxK1goXkQrX4FhYbfILUaQOZ4dNGCGn5b1iv3rO7Bfog==",
+  "dgSpecHash": "ZqGqaBf6WLNbOt2STlFhInCreL6gxlNvfIf/6Nne/RdC7yPLP8qC3bKZVBgJWN9C6Ty3mKlFYedi9GhcAGpE9Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\luqui\\source\\repos\\CloudStorageAPI\\CloudStorageAPI\\CloudStorageAPI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\luqui\\.nuget\\packages\\file.typechecker\\4.0.0\\file.typechecker.4.0.0.nupkg.sha512",
     "C:\\Users\\luqui\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\luqui\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\luqui\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",

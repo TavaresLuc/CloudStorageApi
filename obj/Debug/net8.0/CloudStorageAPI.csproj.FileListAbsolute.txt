@@ -5,10 +5,13 @@ C:\Users\luqui\source\repos\CloudStorageAPI\CloudStorageAPI\bin\Debug\net8.0\Clo
 C:\Users\luqui\source\repos\CloudStorageAPI\CloudStorageAPI\bin\Debug\net8.0\CloudStorageAPI.runtimeconfig.json
 C:\Users\luqui\source\repos\CloudStorageAPI\CloudStorageAPI\bin\Debug\net8.0\CloudStorageAPI.dll
 C:\Users\luqui\source\repos\CloudStorageAPI\CloudStorageAPI\bin\Debug\net8.0\CloudStorageAPI.pdb
+C:\Users\luqui\source\repos\CloudStorageAPI\CloudStorageAPI\bin\Debug\net8.0\FileTypeChecker.dll
 C:\Users\luqui\source\repos\CloudStorageAPI\CloudStorageAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
 C:\Users\luqui\source\repos\CloudStorageAPI\CloudStorageAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\luqui\source\repos\CloudStorageAPI\CloudStorageAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\luqui\source\repos\CloudStorageAPI\CloudStorageAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\luqui\source\repos\CloudStorageAPI\CloudStorageAPI\bin\Debug\net8.0\CloudStorageTest.dll
+C:\Users\luqui\source\repos\CloudStorageAPI\CloudStorageAPI\bin\Debug\net8.0\CloudStorageTest.pdb
 C:\Users\luqui\source\repos\CloudStorageAPI\CloudStorageAPI\obj\Debug\net8.0\CloudStorageAPI.csproj.AssemblyReference.cache
 C:\Users\luqui\source\repos\CloudStorageAPI\CloudStorageAPI\obj\Debug\net8.0\CloudStorageAPI.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\luqui\source\repos\CloudStorageAPI\CloudStorageAPI\obj\Debug\net8.0\CloudStorageAPI.AssemblyInfoInputs.cache
@@ -16,6 +19,7 @@ C:\Users\luqui\source\repos\CloudStorageAPI\CloudStorageAPI\obj\Debug\net8.0\Clo
 C:\Users\luqui\source\repos\CloudStorageAPI\CloudStorageAPI\obj\Debug\net8.0\CloudStorageAPI.csproj.CoreCompileInputs.cache
 C:\Users\luqui\source\repos\CloudStorageAPI\CloudStorageAPI\obj\Debug\net8.0\CloudStorageAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\luqui\source\repos\CloudStorageAPI\CloudStorageAPI\obj\Debug\net8.0\CloudStorageAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\luqui\source\repos\CloudStorageAPI\CloudStorageAPI\obj\Debug\net8.0\CloudStorageAPI.sourcelink.json
 C:\Users\luqui\source\repos\CloudStorageAPI\CloudStorageAPI\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\luqui\source\repos\CloudStorageAPI\CloudStorageAPI\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\luqui\source\repos\CloudStorageAPI\CloudStorageAPI\obj\Debug\net8.0\staticwebassets\msbuild.CloudStorageAPI.Microsoft.AspNetCore.StaticWebAssets.props
